@@ -37,7 +37,7 @@ function Quote() {
         </div>
         <div id="buttons">
           <div className="social-media">
-            <a href="#" id="twit-quote">
+            <a href="#" id="tweet-quote">
               <span><img src={twitterIcon} alt="" /></span>
             </a>
             <a href="#" id="tumbr-quote">
