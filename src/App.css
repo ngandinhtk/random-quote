@@ -50,7 +50,7 @@ pre > h1 {
   cursor: pointer;
   border-radius: 5px;
 }
-.social-media > #twit-quote {
+.social-media > #tweet-quote {
   
   background: #4884f4;
 }
@@ -60,7 +60,6 @@ pre > h1 {
 }
 .social-media > a:hover {
   opacity: .9;
-
 }
 .social-media > a img {
   width: 1.5rem;
